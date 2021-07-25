@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/first-r-app/static/css/main.27b36f9a.chunk.css",
+    "main.js": "/first-r-app/static/js/main.235134cc.chunk.js",
+    "main.js.map": "/first-r-app/static/js/main.235134cc.chunk.js.map",
+    "runtime-main.js": "/first-r-app/static/js/runtime-main.c8acb52f.js",
+    "runtime-main.js.map": "/first-r-app/static/js/runtime-main.c8acb52f.js.map",
+    "static/css/2.8d40caf3.chunk.css": "/first-r-app/static/css/2.8d40caf3.chunk.css",
+    "static/js/2.60b3328a.chunk.js": "/first-r-app/static/js/2.60b3328a.chunk.js",
+    "static/js/2.60b3328a.chunk.js.map": "/first-r-app/static/js/2.60b3328a.chunk.js.map",
+    "static/js/3.4abc9e6c.chunk.js": "/first-r-app/static/js/3.4abc9e6c.chunk.js",
+    "static/js/3.4abc9e6c.chunk.js.map": "/first-r-app/static/js/3.4abc9e6c.chunk.js.map",
+    "index.html": "/first-r-app/index.html",
+    "static/css/2.8d40caf3.chunk.css.map": "/first-r-app/static/css/2.8d40caf3.chunk.css.map",
+    "static/css/main.27b36f9a.chunk.css.map": "/first-r-app/static/css/main.27b36f9a.chunk.css.map",
+    "static/js/2.60b3328a.chunk.js.LICENSE.txt": "/first-r-app/static/js/2.60b3328a.chunk.js.LICENSE.txt",
+    "static/media/Chemist.6f8257bd.png": "/first-r-app/static/media/Chemist.6f8257bd.png",
+    "static/media/banner.7c9a6bdb.jpg": "/first-r-app/static/media/banner.7c9a6bdb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8acb52f.js",
+    "static/css/2.8d40caf3.chunk.css",
+    "static/js/2.60b3328a.chunk.js",
+    "static/css/main.27b36f9a.chunk.css",
+    "static/js/main.235134cc.chunk.js"
+  ]
+}
