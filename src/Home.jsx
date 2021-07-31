@@ -7,7 +7,7 @@ import banner from './banner.jpg';
             <div className="home-content">
                 <div className="content"> 
                 <h1>
-                 React First Application
+                 React Application
                 </h1>
                 <p>Try my best to deliver everything possible</p>
                 <button className="btn btn-warning rounded-0  text-uppercase btn-lg mr-2">Get Latest</button>&nbsp;&nbsp;&nbsp;
